@@ -2,14 +2,19 @@
 
 ## Summary
 
-Skills Check 1 is an opportunity to check your progress in the course thus far.
+Skills Check 1 is an opportunity to check your progress in the course thus far, and it consists of two parts. Your goal should be to get at least as close as possible to finishing part 1. 
 
-* This project consists of 4 JavaScript parts and 1 HTML/CSS mockup.
+* This part 1 repo consists of 4 JavaScript parts and 1 HTML/CSS mockup.
   * The HTML/CSS module has instructions in it's README.
   * The JavaScript modules have instructions and tests associated with them. To check your progress, open the corresponding SpecRunner in the browser.
   * If you get stuck, move on and come back to the problem later.
 * You have the whole day to work on this and should get as far as you can.
 * Your mentors can help point you in the right direction, but they cannot help you write any code. Mentors can also help with any technical issues (computer won't start, browser won't launch, etc.). If you're unclear whether your issue is code related or technical, ask a mentor and they will inform you.
+
+### Part 2
+
+If you finish part 1 of the skills check, you should move to part 2 which can be found here:
+https://github.com/DevMountain/web-week2-skillscheck-part-2
 
 
 ## Contributions
