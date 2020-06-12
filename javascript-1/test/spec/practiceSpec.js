@@ -50,7 +50,7 @@ describe('Week Two Skills Check', function () {
 		it('should return "the number is odd" if the number is odd', function () {
 			expect(oddChecker(7)).toBe('the number is odd')
 		})
-		it('should return "the number is true" if the number is even', function () {
+		it('should return "the number is even" if the number is even', function () {
 			expect(oddChecker(4)).toBe('the number is even')
 		})
 	})
